@@ -93,9 +93,7 @@ Users can interact with the dashboard using filters/slicers such as:
 
 ## 📊 Dashboard Preview
 
-![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20Dashboard.png)
-![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20-%2015%20Days%20Forecast.png)
-
+![Sales Performance Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub_Sales_Performance_Dashboard/blob/main/Sales%20Performance%20Dashboard.png)
 ---
 
 ## 🔍 Key Insights
@@ -160,16 +158,4 @@ This project demonstrates practical skills in:
 B.Tech – Artificial Intelligence & Machine Learning
 
 Interested in **Data Analytics, Machine Learning & Business Intelligence**
-
-## 📊 Dashboard Preview
-
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-```text
-![Super Store Sales Dashboard](dashboard_screenshot.png)
-```
-
----
 
